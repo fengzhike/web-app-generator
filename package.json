@@ -1,7 +1,7 @@
 {
     "name": "web-app-generator",
     "version": "0.0.1",
-    "description": "",
+    "description": "web应用生成器",
     "main": "./bin/index.js",
     "dependencies": {
         "chalk": "^4.0.0",

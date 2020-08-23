@@ -28,6 +28,6 @@ npx web-app-generator <projectName> [projectType]
 | option | needed | type  | default  | value |
 | -------| -------| -------| -----------| --------- |
 | projectName   | True      | String |  ''  | eg: 'myapp'|
-| prejectType   | False     | String |  ''  | react or react-hook |
+| prejectType   | False     | String |  ''  | [vue]  react or react-hook |
 
 

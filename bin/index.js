@@ -52,6 +52,8 @@ async function run(root) {
         case 'react-hook':
             branch = 'react-hook-tpl';
             break;
+        default:
+            branch = 'master';
     }
 
     const repo = {
