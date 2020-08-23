@@ -47,10 +47,10 @@ async function run(root) {
 
     switch(projectType) {
         case 'react':
-            branch = 'react-version';
+            branch = 'react-tpl';
             break;
         case 'react-hook':
-            branch = 'react-hook-version';
+            branch = 'react-hook-tpl';
             break;
     }
 
