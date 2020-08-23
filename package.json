@@ -1,0 +1,30 @@
+{
+    "name": "web-app-generator",
+    "version": "0.0.1",
+    "description": "",
+    "main": "./bin/index.js",
+    "dependencies": {
+        "chalk": "^4.0.0",
+        "commander": "^5.0.0",
+        "cross-spawn": "^7.0.2",
+        "download-git-repo": "^3.0.2",
+        "fs-extra": "^9.0.0"
+    },
+    "bin": {
+        "create-web-tpl": "./bin/index.js"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "clear": "node scripts/clearTest.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fengzhike/web-app-generator.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/fengzhike/web-app-generator/issues"
+    },
+    "homepage": "https://github.com/fengzhike/web-app-generator#readme"
+}
